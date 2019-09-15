@@ -20,7 +20,7 @@ sudo apt install python3
 
 "
 
-# Reuirements.txt
+# Requirements.txt
 
 To Install requirements.txt you can use pip command
 
